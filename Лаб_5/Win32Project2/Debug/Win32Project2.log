@@ -1,0 +1,7 @@
+﻿  Win32Project2.cpp
+e:\univer\5 семестр\ос\лабы\лаб_5\win32project2\win32project2.cpp(130): warning C4101: ps: неиспользованная локальная переменная
+e:\univer\5 семестр\ос\лабы\лаб_5\win32project2\win32project2.cpp(133): warning C4101: szHello: неиспользованная локальная переменная
+e:\univer\5 семестр\ос\лабы\лаб_5\win32project2\win32project2.cpp(129): warning C4101: wmEvent: неиспользованная локальная переменная
+e:\univer\5 семестр\ос\лабы\лаб_5\win32project2\win32project2.cpp(129): warning C4101: wmId: неиспользованная локальная переменная
+CVTRES : fatal error CVT1100: яютЄюЁ ■∙шщё  ЁхёєЁё. Єшя: DIALOG, шь : 103,  ч√ъ: 0x0419
+LINK : fatal error LNK1123: сбой при преобразовании в COFF: файл недопустим или поврежден

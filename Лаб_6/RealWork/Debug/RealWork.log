@@ -1,0 +1,4 @@
+﻿  App.cpp
+e:\univer\5 семестр\ос\лабы\лаб_6\realwork\app.cpp(62): warning C4002: слишком много фактических параметров для макроопределения "DialogBoxW"
+  RealWork.vcxproj -> E:\Univer\5 семестр\ОС\Лабы\Лаб_6\RealWork\Debug\RealWork.exe
+  RealWork.vcxproj -> E:\Univer\5 семестр\ОС\Лабы\Лаб_6\RealWork\Debug\RealWork.pdb (Partial PDB)

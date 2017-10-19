@@ -1,0 +1,4 @@
+﻿  Win32Project3.cpp
+e:\univer\5 семестр\ос\лабы\лаб_5\win32project3\win32project3.cpp(136): warning C4002: слишком много фактических параметров для макроопределения "DialogBoxW"
+  Win32Project3.vcxproj -> E:\Univer\5 семестр\ОС\Лабы\Лаб_5\Win32Project3\Debug\Win32Project3.exe
+  Win32Project3.vcxproj -> E:\Univer\5 семестр\ОС\Лабы\Лаб_5\Win32Project3\Debug\Win32Project3.pdb (Partial PDB)
